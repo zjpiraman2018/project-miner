@@ -1,0 +1,243 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProjMiner" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="Users" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;Users&gt;&lt;Credential&gt;&lt;Account&gt;Alma&lt;/Account&gt;&lt;Username&gt;cybers01&lt;/Username&gt;&lt;Password&gt;cfRfHRfR&lt;/Password&gt;&lt;/Credential&gt;&lt;Credential&gt;&lt;Account&gt;Cecile&lt;/Account&gt;&lt;Username&gt;cybers02&lt;/Username&gt;&lt;Password&gt;orrVOnOF&lt;/Password&gt;&lt;/Credential&gt;&lt;Credential&gt;&lt;Account&gt;Rowen&lt;/Account&gt;&lt;Username&gt;cybers03&lt;/Username&gt;&lt;Password&gt;oXTOwycgc&lt;/Password&gt;&lt;/Credential&gt;&lt;Credential&gt;&lt;Account&gt;Maribel&lt;/Account&gt;&lt;Username&gt;cybers04&lt;/Username&gt;&lt;Password&gt;jGfnjVPn&lt;/Password&gt;&lt;/Credential&gt;&lt;Credential&gt;&lt;Account&gt;Angela&lt;/Account&gt;&lt;Username&gt;cybers05&lt;/Username&gt;&lt;Password&gt;bvbvUTUK&lt;/Password&gt;&lt;/Credential&gt;&lt;/Users&gt;</Value>
+    </Setting>
+    <Setting Name="ProxyList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;Proxy&gt;&lt;Server&gt;&lt;Name&gt;elite proxy - 1&lt;/Name&gt;&lt;IPAddress&gt;50.207.44.25&lt;/IPAddress&gt;&lt;Port&gt;8080&lt;/Port&gt;&lt;/Server&gt;&lt;Server&gt;&lt;Name&gt;elite proxy - 2&lt;/Name&gt;&lt;IPAddress&gt;104.197.107.186&lt;/IPAddress&gt;&lt;Port&gt;3128&lt;/Port&gt;&lt;/Server&gt;&lt;/Proxy&gt;</Value>
+    </Setting>
+    <Setting Name="ProxyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test1</Value>
+    </Setting>
+    <Setting Name="ProxyAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ProxyPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="TypeList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;Main&gt;&lt;Type&gt;&lt;Name&gt;Limited&lt;/Name&gt;&lt;Value&gt;15CECL&lt;/Value&gt;&lt;Start&gt;04766&lt;/Start&gt;&lt;End&gt;99999&lt;/End&gt;&lt;/Type&gt;&lt;Type&gt;&lt;Name&gt;Unlimited&lt;/Name&gt;&lt;Value&gt;15CECG&lt;/Value&gt;&lt;Start&gt;02044&lt;/Start&gt;&lt;End&gt;99999&lt;/End&gt;&lt;/Type&gt;&lt;Type&gt;&lt;Name&gt;Small Claims&lt;/Name&gt;&lt;Value&gt;15CESC&lt;/Value&gt;&lt;Start&gt;01257&lt;/Start&gt;&lt;End&gt;99999&lt;/End&gt;&lt;/Type&gt;&lt;/Main&gt;</Value>
+    </Setting>
+    <Setting Name="FresnoHtmlTemplate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;table  style="width:100%"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td style="text-align:center"&gt;&lt;h3&gt;{0}&lt;/he&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td  style="border-style: solid; border-color: #e0e0e0; border-width: 1px;padding:14px"&gt;
+&lt;table style="font-size:11px;width:100%"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td style="width:50%"&gt;Case Number: {1}&lt;/td&gt;&lt;td style="width:50%"&gt;Court: {2}&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;File Date: {3}&lt;/td&gt;
+&lt;td&gt;Case Type: {4}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;Case Status: {5}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+{6}
+
+{11}
+{9}
+
+
+&lt;div style="width:100%;font-size:6px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;table  style="width:100%"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td  style="border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:14px"&gt;
+&lt;table style="font-size:11px;width:100%"&gt;
+&lt;tbody&gt;
+{7}
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;div style="width:100%;font-size:6px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;table  style="width:100%"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td  style="border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:14px"&gt;
+&lt;table style="font-size:11px;width:100%"&gt;
+&lt;tbody&gt;
+{8}
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+{10}</Value>
+    </Setting>
+    <Setting Name="FresnoCss" Type="System.String" Scope="User">
+      <Value Profile="(Default)">body{
+font: 12px Arial, sans-serif;
+}td{padding: 2px;}
+
+.tyler-bold,.tyler-toggle-controller.open
+{
+	font-size:14px !important;
+	font-weight:bold;
+	
+}
+
+.tyler-color-muted
+{
+		font-size:12px;
+		margin-left:20px;
+}.borderx{padding: 5px; border-bottom: 1px solid  #e0e0e0;}</Value>
+    </Setting>
+    <Setting Name="tableTemplate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;div style="width:100%;font-size:6px;line-height:25px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;table  style="width:100%"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td  style="border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:14px"&gt;
+&lt;table style="font-size:11px;width:100%"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td  style='width:100%'&gt;
+{0}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;</Value>
+    </Setting>
+    <Setting Name="tableTemplate2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;div style="width:100%;font-size:6px;line-height:25px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;table  style="width:100%"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td  style="border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:14px"&gt;
+&lt;table style="font-size:11px;width:100%"&gt;
+
+{0}
+&lt;/table&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;</Value>
+    </Setting>
+    <Setting Name="tableTemplate3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;div style="width:100%;font-size:6px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;table  style="width:100%"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td  style="border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:14px"&gt;
+&lt;table style="font-size:11px;width:100%"&gt;
+&lt;tbody&gt;
+{0}
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;</Value>
+    </Setting>
+    <Setting Name="NebraskaHtmlTemplate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+&lt;table  style="width:100%;cellspan:0;    border-spacing: 0px; border-collapse: collapse;"&gt;
+&lt;tbody&gt;
+
+&lt;tr&gt;&lt;td style="text-align:center;font-size:11px;width:100%"&gt;Nebraska Judicial Branch ­ Case Search&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align:center;font-size:11px;width:100%"&gt;Official Nebraska Government Website&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="font-size:6px;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align:center"&gt;&lt;h3&gt;&lt;b&gt;Nebraska Supreme Court&lt;/b&gt;&lt;/h3&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="font-size:12px;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td  style="font-size:12px;border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:3px;border-bottom:0px solid white;padding:8px"&gt;&lt;b&gt;Case Summary&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td  style="border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:3px;font-size:11px;padding:8px"&gt;{0}&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;div style="width:100%;font-size:6px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;table  style="width:100%;cellspan:0;    border-spacing: 0px; border-collapse: collapse;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td  style="font-size:12px;border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:3px;border-bottom:0px solid white;padding:8px"&gt;&lt;b&gt;Parties/Attorneys to the Case&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td  style="border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:3px;font-size:11px;padding:8px"&gt;{1}&lt;/td&gt;&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+{2}
+
+{3}
+
+{4}
+
+{5}
+
+{6}</Value>
+    </Setting>
+    <Setting Name="NebraskTableTemplate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;div style="width:100%;font-size:6px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;table  style="width:100%;cellspan:0;    border-spacing: 0px; border-collapse: collapse;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td  style="font-size:12px;border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:3px;border-bottom:0px solid white;padding:8px"&gt;&lt;b&gt;{0}&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td  style="border-style: dotted; border-color: #e0e0e0; border-width: 1px;padding:3px;font-size:11px;padding:8px"&gt;{1}&lt;/td&gt;&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;</Value>
+    </Setting>
+    <Setting Name="NebraskTableTemplate2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;div style="width:100%;font-size:6px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;table  style="width:100%;cellspan:0;    border-spacing: 0px; border-collapse: collapse;"&gt;
+&lt;tbody style="border:1px solid  #e0e0e0;"&gt;
+&lt;tr&gt;&lt;td  style="font-size:12px;border-style: solid; border-color: #e0e0e0; border-width: 1px;padding:3px;padding:8px" colspan="4"&gt;&lt;b&gt;{0}&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+{1}
+
+&lt;/tbody&gt;
+&lt;/table&gt;</Value>
+    </Setting>
+    <Setting Name="NebraskTableTemplate3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;div style="width:100%;font-size:6px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;table  style="width:100%;cellspan:0;    border-spacing: 0px; border-collapse: collapse;"&gt;
+&lt;tbody style="border:1px solid  #e0e0e0;"&gt;
+&lt;tr&gt;&lt;td  style="font-size:12px;border-style: solid; border-color: #e0e0e0; border-width: 1px;padding:3px;padding:8px" colspan="5"&gt;&lt;b&gt;{0}&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+{1}
+
+&lt;/tbody&gt;
+&lt;/table&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

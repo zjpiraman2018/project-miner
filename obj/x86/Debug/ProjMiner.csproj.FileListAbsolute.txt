@@ -1,0 +1,412 @@
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe.config
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\bin\Debug\ProjMiner.pdb
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.exe
+c:\users\zaldy\documents\visual studio 2010\Projects\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+C:\Users\zaldy\Documents\Visual Studio 2010\Projects\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+C:\Users\zaldy\Documents\Visual Studio 2010\Projects\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+C:\Users\zaldy\Documents\Visual Studio 2010\Projects\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+F:\mam alma\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe.config
+F:\mam alma\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe
+F:\mam alma\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.pdb
+F:\mam alma\new project\ProjMiner\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+F:\mam alma\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+F:\mam alma\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+F:\mam alma\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+F:\mam alma\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+F:\mam alma\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+F:\mam alma\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+F:\mam alma\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+F:\mam alma\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+F:\mam alma\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.exe
+F:\mam alma\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.exe
+F:\testing proj\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe.config
+F:\testing proj\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe
+F:\testing proj\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.pdb
+F:\testing proj\new project\ProjMiner\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \testing proj\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe.config
+D:\ \testing proj\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe
+D:\ \testing proj\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.pdb
+D:\ \testing proj\new project\ProjMiner\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.exe
+D:\ \testing proj\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+E:\Downloads\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe.config
+E:\Downloads\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe
+E:\Downloads\new project\ProjMiner\ProjMiner\bin\Debug\ProjMiner.pdb
+E:\Downloads\new project\ProjMiner\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.exe
+E:\Downloads\new project\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+E:\Downloads\new project\ProjMiner\ProjMiner\bin\Debug\itextsharp.dll
+E:\Downloads\new project\ProjMiner\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+E:\Downloads\new project\ProjMiner\ProjMiner\bin\Debug\Magick.NET-x86.dll
+E:\Downloads\new project\ProjMiner\ProjMiner\bin\Debug\Magick.NET.Core.dll
+E:\Downloads\new project\ProjMiner\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+F:\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+F:\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+F:\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+F:\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+F:\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+F:\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+F:\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.exe
+F:\testing proj\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe.config
+F:\testing proj\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe
+F:\testing proj\ProjMiner\ProjMiner\bin\Debug\ProjMiner.pdb
+F:\testing proj\ProjMiner\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+F:\testing proj\ProjMiner\ProjMiner\bin\Debug\itextsharp.dll
+F:\testing proj\ProjMiner\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+F:\testing proj\ProjMiner\ProjMiner\bin\Debug\Magick.NET-x86.dll
+F:\testing proj\ProjMiner\ProjMiner\bin\Debug\Magick.NET.Core.dll
+F:\testing proj\ProjMiner\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+F:\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+F:\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+F:\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe.config
+C:\zaldy\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.exe
+C:\zaldy\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\ProjMiner.pdb
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\itextsharp.dll
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\Magick.NET-x86.dll
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\Magick.NET.Core.dll
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\zaldy\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+C:\zaldy\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+C:\zaldy\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+C:\zaldy\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+C:\zaldy\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+C:\zaldy\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+C:\zaldy\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+C:\zaldy\testing proj\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+C:\zaldy\testing proj\ProjMiner\ProjMiner\bin\Debug\SgmlReaderDll.dll
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe.config
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.exe
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\bin\Debug\ProjMiner.pdb
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\bin\Debug\itextsharp.dll
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\bin\Debug\Magick.NET-x86.dll
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\bin\Debug\Magick.NET.Core.dll
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\bin\Debug\SgmlReaderDll.dll
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+D:\Offsite\ProjMiner (2)\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe.config
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.exe
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\bin\Debug\ProjMiner.exe
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\bin\Debug\ProjMiner.pdb
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\bin\Debug\Magick.NET-x86.dll
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\bin\Debug\Magick.NET.Core.dll
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\bin\Debug\SgmlReaderDll.dll
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+C:\Users\Administrator\Downloads\ProjMiner\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\ProjMiner.exe.config
+C:\Users\Administrator\Downloads\ProjMiner\obj\x86\Debug\ProjMiner.exe
+C:\Users\Administrator\Downloads\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\ProjMiner.exe
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\ProjMiner.pdb
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\Magick.NET-x86.dll
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\Magick.NET.Core.dll
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\SgmlReaderDll.dll
+C:\Users\Administrator\Downloads\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+C:\Users\Administrator\Downloads\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+C:\Users\Administrator\Downloads\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+C:\Users\Administrator\Downloads\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+C:\Users\Administrator\Downloads\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+C:\Users\Administrator\Downloads\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+C:\Users\Administrator\Downloads\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\ProjMiner\bin\Debug\Ghostscript.NET.dll
+D:\Offsite\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+D:\Offsite\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+D:\Offsite\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+D:\Offsite\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+D:\Offsite\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+D:\Offsite\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+D:\Offsite\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+D:\Offsite\ProjMiner\bin\Debug\ProjMiner.exe.config
+D:\Offsite\ProjMiner\bin\Debug\ProjMiner.exe
+D:\Offsite\ProjMiner\bin\Debug\ProjMiner.pdb
+D:\Offsite\ProjMiner\bin\Debug\Ghostscript.NET.dll
+D:\Offsite\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+D:\Offsite\ProjMiner\bin\Debug\itextsharp.dll
+D:\Offsite\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+D:\Offsite\ProjMiner\bin\Debug\Magick.NET-x86.dll
+D:\Offsite\ProjMiner\bin\Debug\Magick.NET.Core.dll
+D:\Offsite\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+D:\Offsite\ProjMiner\bin\Debug\SgmlReaderDll.dll
+D:\Offsite\ProjMiner\obj\x86\Debug\ProjMiner.exe
+D:\Offsite\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+D:\Offsite\ProjMiner\bin\Debug\Files\template.xlsx
+D:\Offsite\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\ProjMiner.exe.config
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\obj\x86\Debug\ProjMiner.exe
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\Files\template.xlsx
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\ProjMiner.exe
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\ProjMiner.pdb
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\Ghostscript.NET.dll
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\itextsharp.dll
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\Magick.NET-x86.dll
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\Magick.NET.Core.dll
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\SgmlReaderDll.dll
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+C:\Users\Zpiraman\Downloads\nebraska\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+C:\zaldy\project\ProjMiner\bin\Debug\ProjMiner.exe.config
+C:\zaldy\project\ProjMiner\obj\x86\Debug\ProjMiner.exe
+C:\zaldy\project\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+C:\zaldy\project\ProjMiner\bin\Debug\Files\template.xlsx
+C:\zaldy\project\ProjMiner\bin\Debug\ProjMiner.exe
+C:\zaldy\project\ProjMiner\bin\Debug\ProjMiner.pdb
+C:\zaldy\project\ProjMiner\bin\Debug\Ghostscript.NET.dll
+C:\zaldy\project\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+C:\zaldy\project\ProjMiner\bin\Debug\itextsharp.dll
+C:\zaldy\project\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+C:\zaldy\project\ProjMiner\bin\Debug\Magick.NET-x86.dll
+C:\zaldy\project\ProjMiner\bin\Debug\Magick.NET.Core.dll
+C:\zaldy\project\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+C:\zaldy\project\ProjMiner\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\zaldy\project\ProjMiner\bin\Debug\SgmlReaderDll.dll
+C:\zaldy\project\ProjMiner\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\zaldy\project\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+C:\zaldy\project\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+C:\zaldy\project\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+C:\zaldy\project\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+C:\zaldy\project\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+C:\zaldy\project\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+C:\zaldy\project\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+C:\zaldy\project\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ProjMiner\bin\Debug\ProjMiner.exe.config
+C:\Users\Administrator\Desktop\ProjMiner\obj\x86\Debug\ProjMiner.exe
+C:\Users\Administrator\Desktop\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\ProjMiner.exe.config
+C:\Users\Zpiraman\Desktop\project\ProjMiner\obj\x86\Debug\ProjMiner.exe
+C:\Users\Zpiraman\Desktop\project\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\Files\template.xlsx
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\ProjMiner.exe
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\ProjMiner.pdb
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\Ghostscript.NET.dll
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\itextsharp.dll
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\Magick.NET-x86.dll
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\Magick.NET.Core.dll
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\SgmlReaderDll.dll
+C:\Users\Zpiraman\Desktop\project\ProjMiner\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Zpiraman\Desktop\project\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+C:\Users\Zpiraman\Desktop\project\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+C:\Users\Zpiraman\Desktop\project\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+C:\Users\Zpiraman\Desktop\project\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+C:\Users\Zpiraman\Desktop\project\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+C:\Users\Zpiraman\Desktop\project\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+C:\Users\Zpiraman\Desktop\project\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+D:\Projects\Nebraska\ProjMiner\bin\Debug\ProjMiner.exe.config
+D:\Projects\Nebraska\ProjMiner\obj\x86\Debug\ProjMiner.exe
+D:\Projects\Nebraska\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+D:\Projects\Nebraska\ProjMiner\bin\Debug\Files\template.xlsx
+D:\Projects\Nebraska\ProjMiner\bin\Debug\ProjMiner.exe
+D:\Projects\Nebraska\ProjMiner\bin\Debug\ProjMiner.pdb
+D:\Projects\Nebraska\ProjMiner\bin\Debug\Ghostscript.NET.dll
+D:\Projects\Nebraska\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\Nebraska\ProjMiner\bin\Debug\itextsharp.dll
+D:\Projects\Nebraska\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+D:\Projects\Nebraska\ProjMiner\bin\Debug\Magick.NET-x86.dll
+D:\Projects\Nebraska\ProjMiner\bin\Debug\Magick.NET.Core.dll
+D:\Projects\Nebraska\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+D:\Projects\Nebraska\ProjMiner\bin\Debug\SgmlReaderDll.dll
+D:\Projects\Nebraska\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+D:\Projects\Nebraska\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+D:\Projects\Nebraska\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+D:\Projects\Nebraska\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+D:\Projects\Nebraska\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+D:\Projects\Nebraska\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+D:\Projects\Nebraska\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+D:\Projects\Nebraska\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\ProjMiner.exe.config
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\obj\x86\Debug\ProjMiner.exe
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\Files\template.xlsx
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\ProjMiner.exe
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\ProjMiner.pdb
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\Ghostscript.NET.dll
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\itextsharp.dll
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\Magick.NET-x86.dll
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\Magick.NET.Core.dll
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\SgmlReaderDll.dll
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+C:\Users\Zpiraman\Documents\Visual Studio 2015\Projects\project miner\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+D:\New folder\Latest\ProjMiner\bin\Debug\ProjMiner.exe.config
+D:\New folder\Latest\ProjMiner\obj\x86\Debug\ProjMiner.exe
+D:\New folder\Latest\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+D:\New folder\Latest\ProjMiner\bin\Debug\Files\template.xlsx
+D:\New folder\Latest\ProjMiner\bin\Debug\ProjMiner.exe
+D:\New folder\Latest\ProjMiner\bin\Debug\ProjMiner.pdb
+D:\New folder\Latest\ProjMiner\bin\Debug\Ghostscript.NET.dll
+D:\New folder\Latest\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+D:\New folder\Latest\ProjMiner\bin\Debug\itextsharp.dll
+D:\New folder\Latest\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+D:\New folder\Latest\ProjMiner\bin\Debug\Magick.NET-x86.dll
+D:\New folder\Latest\ProjMiner\bin\Debug\Magick.NET.Core.dll
+D:\New folder\Latest\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+D:\New folder\Latest\ProjMiner\bin\Debug\SgmlReaderDll.dll
+D:\New folder\Latest\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+D:\New folder\Latest\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+D:\New folder\Latest\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+D:\New folder\Latest\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+D:\New folder\Latest\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+D:\New folder\Latest\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+D:\New folder\Latest\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+D:\New folder\Latest\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+E:\INSTALLER\ProjMiner\bin\Debug\Files\template.xlsx
+E:\INSTALLER\ProjMiner\bin\Debug\ProjMiner.exe.config
+E:\INSTALLER\ProjMiner\bin\Debug\ProjMiner.exe
+E:\INSTALLER\ProjMiner\bin\Debug\ProjMiner.pdb
+E:\INSTALLER\ProjMiner\bin\Debug\Ghostscript.NET.dll
+E:\INSTALLER\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+E:\INSTALLER\ProjMiner\bin\Debug\itextsharp.dll
+E:\INSTALLER\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+E:\INSTALLER\ProjMiner\bin\Debug\Magick.NET-x86.dll
+E:\INSTALLER\ProjMiner\bin\Debug\Magick.NET.Core.dll
+E:\INSTALLER\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+E:\INSTALLER\ProjMiner\bin\Debug\SgmlReaderDll.dll
+E:\INSTALLER\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+E:\INSTALLER\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+E:\INSTALLER\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+E:\INSTALLER\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+E:\INSTALLER\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+E:\INSTALLER\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+E:\INSTALLER\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+E:\INSTALLER\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+E:\INSTALLER\ProjMiner\obj\x86\Debug\ProjMiner.exe
+E:\INSTALLER\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+D:\PROJECTS\ProjMiner\bin\Debug\ProjMiner.exe.config
+D:\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.exe
+D:\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+D:\PROJECTS\ProjMiner\bin\Debug\Files\template.xlsx
+D:\PROJECTS\ProjMiner\bin\Debug\ProjMiner.exe
+D:\PROJECTS\ProjMiner\bin\Debug\ProjMiner.pdb
+D:\PROJECTS\ProjMiner\bin\Debug\Ghostscript.NET.dll
+D:\PROJECTS\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+D:\PROJECTS\ProjMiner\bin\Debug\itextsharp.dll
+D:\PROJECTS\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+D:\PROJECTS\ProjMiner\bin\Debug\Magick.NET-x86.dll
+D:\PROJECTS\ProjMiner\bin\Debug\Magick.NET.Core.dll
+D:\PROJECTS\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+D:\PROJECTS\ProjMiner\bin\Debug\SgmlReaderDll.dll
+D:\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.csprojResolveAssemblyReference.cache
+D:\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+D:\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+D:\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+D:\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+D:\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+D:\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+D:\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.Cache
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\Files\template.xlsx
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\ProjMiner.exe.config
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\ProjMiner.exe
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\ProjMiner.pdb
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\Ghostscript.NET.dll
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\itextsharp.dll
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\Magick.NET-x86.dll
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\Magick.NET.Core.dll
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\Magick.NET.Wrapper-x86.dll
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\bin\Debug\SgmlReaderDll.dll
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.frmFresno.resources
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.frmFresnoProxy.resources
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.frmMain.resources
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.frmNebraskaUsers.resources
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.Nebraska.resources
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.Properties.Resources.resources
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.csproj.GenerateResource.cache
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.csproj.CoreCompileInputs.cache
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.csproj.CopyComplete
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.exe
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.pdb
+C:\Users\Cyrel Ganda\Documents\PC Backup\PROJECTS\ProjMiner\obj\x86\Debug\ProjMiner.csprojAssemblyReference.cache
